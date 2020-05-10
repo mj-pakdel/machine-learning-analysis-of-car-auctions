@@ -7,25 +7,25 @@ An external client at company x is interested to know how the probability of sel
 ● Q4) What is the accuracy of the model?
 
 
-Outline     
+__Outline__    
 ● Pre-Processing    
 
-                ❖ Helper Functions Implementation     
-                ❖ Data Manipulation     
-                ❖ Data Preparation for Model Fit        
+    ❖ Helper Functions Implementation     
+    ❖ Data Manipulation     
+    ❖ Data Preparation for Model Fit        
         
 ● Chapter 1 : Data exploration     
 ● Chapter 2 : Classification Performance Metrics     
 ● Chapter 3 : Sales Probability Discussion (Logistic Regression)       
 ● Chapter 4 : Implementation of Bucket of Models  
 
-            ❖ Logistic     
-            ❖ Decision trees     
-            ❖ Random Forest     
-            ❖ SVM      
-            ❖ KNN     
-            ❖ Naive Bayes Classifier     
-            ❖ Deep learning   
+    ❖ Logistic     
+    ❖ Decision trees     
+    ❖ Random Forest     
+    ❖ SVM      
+    ❖ KNN     
+    ❖ Naive Bayes Classifier     
+    ❖ Deep learning   
     
 ● Chapter 5 : What is the Take for a Client    
 ● Chapter 6 : Recommendation for Future Research

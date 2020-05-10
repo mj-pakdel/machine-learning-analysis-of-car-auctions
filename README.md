@@ -7,11 +7,11 @@ An external client at company x is interested to know how the probability of sel
 ● Q4) What is the accuracy of the model?
 
 
-Outline
+Outline     
 ● Pre-Processing      
-    ❖ Helper Functions Implementation     
-    ❖ Data Manipulation     
-    ❖ Data Preparation for Model Fit        
+        ❖ Helper Functions Implementation     
+        ❖ Data Manipulation     
+        ❖ Data Preparation for Model Fit        
 ● Chapter 1 : Data exploration     
 ● Chapter 2 : Classification Performance Metrics     
 ● Chapter 3 : Sales Probability Discussion (Logistic Regression)       

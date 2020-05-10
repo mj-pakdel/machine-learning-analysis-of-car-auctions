@@ -3,9 +3,7 @@ An external client at company x is interested to know how the probability of sel
 
 ● Q1) How the probability of sell of each offering is impacted by the floor price(with respect to MMR (Manheim Market Report))? 
 ● Q2) What the other factors impact the probability of sell? 
-
 ● Q3) What is the probability of sell? 
-
 ● Q4) What is the accuracy of the model?
 
 
